@@ -435,12 +435,6 @@ footer p {
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 3px;
 }
 
-.img-circle {
-    border-radius: 50%;
-    box-shadow: 0px 10px 25px #6e3c2d;
-    background-color: #e0e3db;
-}
-
 .send-button {
   background-color: #519D9E;
   color: white;
@@ -448,7 +442,7 @@ footer p {
 }
 
 .send-button:hover {
-  color: ff825c;
+  color: #519D9E;
 }
 
 .text-danger {
